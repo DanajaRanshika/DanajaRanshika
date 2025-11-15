@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:151515,100:0A66C2&height=180&section=header&text=Danaja%20Pathmakumara&fontSize=42&fontAlignY=30&desc=💻Frontend%20Developer%20|%20🌐Tech%20Explorer&descAlignY=51&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120136,100:FF005C&height=180&section=header&text=Danaja%20Pathmakumara&fontSize=42&fontColor=FFFFFF&fontAlignY=30&desc=💻%20Frontend%20Developer%20|%20🌐%20Tech%20Explorer&descAlignY=51&descSize=18&animation=twinkling" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -35,7 +35,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,ts,react,js,html,css,tailwind,spring,mysql,mongodb,oracle,php,linux,git,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,ts,react,js,html,css,tailwind,spring,mysql,mongodb,php,linux,git,arduino&theme=dark" />
 </p>
 
 ---
@@ -72,5 +72,5 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:151515,100:0A66C2&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120136,100:FF005C&height=120&section=footer" />
 </div>
