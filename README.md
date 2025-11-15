@@ -10,7 +10,7 @@
 </a>
 
 <!-- Profile GIF -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXo5YmJkOHdjOG00anVsY3FqemM4eHRpZDg0dGV6eTZyNjFkcnlzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="400" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 
 <!-- Profile Stats -->
 <p>
@@ -49,14 +49,6 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DanajaRanshika&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=00E5FF&point=FFFFFF" />
 
 </div>
-
----
-
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanajaRanshika&theme=github_dark&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
 
 ---
 
